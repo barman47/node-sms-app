@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-sms",
+  "version": "1.0.0",
+  "description": "Send sms from node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Nexmo",
+    "express"
+  ],
+  "author": "Uzoanya Dominic",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nexmo": "^2.4.0",
+    "socket.io": "^2.2.0"
+  }
+}
